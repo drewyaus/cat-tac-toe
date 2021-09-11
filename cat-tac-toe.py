@@ -11,6 +11,7 @@ SCREENRECT = pg.Rect(0, 0, 335 * 3, 186 * 3)
 
 main_dir = os.path.split(os.path.abspath(__file__))[0]
 
+# sam's comment
 
 class GameObject:
     def __init__(self, image, position):
